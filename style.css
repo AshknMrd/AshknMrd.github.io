@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background: #f4f4f4; /* light gray/white */
+  background: #013220; /* dark green */
   color: #fff;
 }
 
@@ -49,7 +49,7 @@ section {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #013220; /* dark green */
+  background: #a77900; /* darker yellow */
   color: white;
 }
 
