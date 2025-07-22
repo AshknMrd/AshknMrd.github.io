@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background: #013220; /* dark green */
+  background: #f4f4f4; /* light gray/white */
   color: #fff;
 }
 
@@ -50,5 +50,13 @@ footer {
   text-align: center;
   padding: 1rem;
   background: #013220; /* dark green */
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+a:visited {
   color: white;
 }
