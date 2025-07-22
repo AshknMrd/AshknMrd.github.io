@@ -1,3 +1,0 @@
-# Ashkan Moradi Personal Webpage
-
-I am a Postdoctoral Fellow in the Department of Medical Imaging and Circulation at NTNU, holding a PhD in Sta- tistical Signal Processing from the same institution. My expertise lies in the design and implementation of federated learning, deep learning, and optimization-based solutions, with a particular focus on medical imaging—especially cancer detection and organ segmentation. I have also conducted extensive research on distributed learning and filtering, emphasizing privacy in Internet of Things networks.
