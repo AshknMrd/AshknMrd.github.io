@@ -1,54 +1,54 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-    background: #f4f4f4;
-    color: #333;
-  }
-  
-  header {
-    text-align: center;
-    background: #333;
-    color: #fff;
-    padding: 2rem 0;
-  }
-  
-  header .profile {
-    width: 120px;
-    border-radius: 50%;
-    margin-bottom: 1rem;
-  }
-  
-  nav {
-    display: flex;
-    justify-content: center;
-    background: #555;
-  }
-  
-  nav a {
-    color: white;
-    padding: 1rem;
-    text-decoration: none;
-  }
-  
-  nav a:hover {
-    background: #444;
-  }
-  
-  main {
-    padding: 2rem;
-    max-width: 800px;
-    margin: auto;
-  }
-  
-  section {
-    margin-bottom: 2rem;
-  }
-  
-  footer {
-    text-align: center;
-    padding: 1rem;
-    background: #333;
-    color: white;
-  }
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #013220; /* dark green */
+  color: #fff;
+}
+
+header {
+  text-align: center;
+  background: #013220; /* dark green */
+  color: #fff;
+  padding: 2rem 0;
+}
+
+header .profile {
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background: #b8860b; /* dark yellow */
+}
+
+nav a {
+  color: white;
+  padding: 1rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background: #a77900; /* darker yellow */
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #013220; /* dark green */
+  color: white;
+}
